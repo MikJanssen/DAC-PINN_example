@@ -1,4 +1,4 @@
-# DAC-PINN_example for Capgemini interview
+# DAC-PINN_example
 
 ## Overview 
 This project shows code snippets from the creation of a physics-informed neural network  (PINN) used for solving a coupled system of partial differential equations (PDEs). The goal of solving these equations is to predict the concentration gradient of different species through a reactor in space and time.  
